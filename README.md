@@ -6,7 +6,6 @@ A fun web app that fetches random dog images using an API. Click a button and ge
 
 ## 🌐 Live Demo  
 🔗 [Try It Now](https://tushar-313.github.io/random-dog-image-generator/)  
-> Replace the URL above with your GitHub Pages / deployed link
 
 ---
 

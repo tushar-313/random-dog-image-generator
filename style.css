@@ -14,7 +14,7 @@ button{
    font-weight: 700;
    display: block;
    margin: auto;
-
+    cursor: pointer;
 }
 img{
     margin-top: 40px;
